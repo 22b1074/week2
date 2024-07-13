@@ -1,6 +1,6 @@
-Name: Chappidi Preethi
-Student ID: 22B1074
-Assignment Title: Week2 Project
+Name: Chappidi Preethi,
+Student ID: 22B1074,
+Assignment Title: Week2 Project,
 In the project directory, you can run:
 
 ### `npm start`
