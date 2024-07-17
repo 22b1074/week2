@@ -1,8 +1,7 @@
 Name: Chappidi Preethi,
 Student ID: 22B1074,
 Assignment Title: Week2 Project,
-In the project directory, you can run:
-
+You can use run when in directoy which contains all folders uploaded 
 ### `npm start`
 
 Runs the app in the development mode.\
